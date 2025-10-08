@@ -1,4 +1,4 @@
-This repository contains two machine learning projects performed using freely avaiable process datasets. Each project illustrates the value that machine learning and other statistical tools hold for understanding and modelling process data.
+This repository contains two machine learning projects performed using freely available process datasets. Each project illustrates the value that machine learning and other statistical tools hold for understanding and modelling process data.
 
 Each project is associated with an iPython notebook.
 
