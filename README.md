@@ -1,4 +1,4 @@
-This repository contains three projects in which machine learning tools were used to analyse and model process datasets. Each project illustrates the value that machine learning and other statistical tools hold for understanding and modelling process data.
+This repository contains two projects in which machine learning tools were used to analyse and model process datasets. Each project illustrates the value that machine learning and other statistical tools hold for understanding and modelling process data.
 
 Each project is associated with an iPython notebook.
 
